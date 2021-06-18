@@ -1,5 +1,6 @@
 Curso de CSS: https://web.dev/learn/css/
-Jogo de Grid: https://cssgridgarden.com/
+Jogo de Grid: https://cssgridgarden.com/#pt-br
+Jogo de Seletores: https://flukeout.github.io/
 
 Placeholder Images: http://via.placeholder.com/640x360
 Lorem Ipsum: https://www.lipsum.com/
