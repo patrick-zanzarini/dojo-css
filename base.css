@@ -1,0 +1,6 @@
+body,html {
+  display: grid;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+}

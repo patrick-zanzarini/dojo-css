@@ -1,0 +1,41 @@
+:root {
+  --default-background-color: white;
+  --muted-background-color: #e4e4e4;
+}
+
+.default-background {
+  background-color: var(--default-background-color);
+}
+
+.muted-background {
+  background-color: var(--muted-background-color);
+}
+
+nav {
+  padding: 1em;
+  background-color: green;
+}
+
+footer {
+  padding: 1em;
+  background-color: hotpink;
+}
+
+main { 
+  display: grid;
+  gap: 1em;
+  padding: 1em;
+}
+
+.container {  
+  display: grid;
+  padding: 1em;
+  border-radius: .3em;
+  background-color: var(--default-background-color);
+}
+
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  align-items: start;
+}

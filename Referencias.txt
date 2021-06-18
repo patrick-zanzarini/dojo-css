@@ -1,0 +1,5 @@
+Curso de CSS: https://web.dev/learn/css/
+Jogo de Grid: https://cssgridgarden.com/
+
+Placeholder Images: http://via.placeholder.com/640x360
+Lorem Ipsum: https://www.lipsum.com/
